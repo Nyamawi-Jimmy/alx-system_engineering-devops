@@ -1,3 +1,4 @@
+
 # Shell Redirections - Scripts Description
 
 This repository contains shell scripts related to shell redirections in the `0x02-shell_redirections` directory.
